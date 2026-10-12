@@ -1,5 +1,5 @@
 // Problem Statement: Write a C program for a wired network using TCP sockets to demonstrate mathematical operations.
-// Server Side Code:
+// Client Side Code:
 
 #include <stdio.h>
 #include <string.h>
